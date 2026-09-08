@@ -8,4 +8,6 @@ func main() {
 	fmt.Print("Just another line from GOland IDE")
 	fmt.Print("Line 3 from web")
 	fmt.Print("Try to commit to github")
+	fmt.Print("Try to commit to github 2222")
+	fmt.Print("Try to commit to github 3333")
 }
