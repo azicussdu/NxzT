@@ -1,0 +1,16 @@
+# Бинарники
+/bin/
+*.exe
+
+# Тесты
+*.test
+*.out
+
+# GoLand
+.idea/
+
+# Секреты
+.env
+
+# ОС
+.DS_Store
